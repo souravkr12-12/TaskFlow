@@ -13,4 +13,5 @@ frontend/node_modules/
 .vscode/
 
 # Database
+taskflow.db
 *.db
